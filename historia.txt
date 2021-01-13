@@ -3,3 +3,4 @@ Este es un archivo de prueba para el curso de GIT y GITHUB de Platzi.
 Archivo creado por Randy Montenegro.
  Profesion: Ingeniero electronico
 Revisado por usuario 2
+Usuario 2 ahora es alguien que hace contribuciones al proyecto.
